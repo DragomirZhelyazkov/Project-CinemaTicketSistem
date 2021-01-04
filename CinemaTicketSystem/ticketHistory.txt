@@ -1,0 +1,24 @@
+Drago, 2021-01-02, 15.39h, Movie: Thor, Date: 2, Hour: 22.00, Hall: 1, Your seats(7): [red:1, mqsto:1; , red:1, mqsto:2; , red:1, mqsto:3; , red:1, mqsto:4; , red:1, mqsto:5; , red:1, mqsto:6; , red:1, mqsto:7; ], Price: 7.0lv.
+Iva, 2021-01-02, 15.4h, Movie: Thor, Date: 2, Hour: 22.00, Hall: 1, Your seats(5): [red:2, mqsto:1; , red:2, mqsto:2; , red:2, mqsto:3; , red:2, mqsto:4; , red:2, mqsto:5; ], Price: 5.0lv.
+Drago, 2021-01-02, 15.41h, Movie: Thor, Date: 2, Hour: 22.00, Hall: 1, Your seats(2): [red:2, mqsto:6; , red:2, mqsto:7; ], Price: 2.0lv.
+Drago, 2021-01-02, 15.41h, Movie: Thor, Date: 2, Hour: 22.00, Hall: 1, Your seats(2): [red:2, mqsto:6; , red:2, mqsto:7; ], Price: 2.0lv.
+Iva, 2021-01-02, 15.42h, Movie: Avengers, Date: 2, Hour: 23.00, Hall: 2, Your seats(6): [red:1, mqsto:1; , red:1, mqsto:2; , red:1, mqsto:3; , red:1, mqsto:4; , red:1, mqsto:5; , red:1, mqsto:6; ], Price: 6.0lv.
+Drago, 2021-01-02, 15.43h, Movie: Avengers, Date: 2, Hour: 23.00, Hall: 2, Your seats(6): [red:2, mqsto:1; , red:2, mqsto:2; , red:2, mqsto:3; , red:2, mqsto:4; , red:2, mqsto:5; , red:2, mqsto:6; ], Price: 6.0lv.
+
+
+Drago, 2021-01-02, 19.3h, Movie: Thor, Date: 2, Hour: 22.00, Hall: 1, Your seats(2): [red:3, mqsto:1; , red:3, mqsto:2; ], Price: 2.0lv.
+Iva, 2021-01-02, 19.31h, Movie: Thor, Date: 2, Hour: 22.00, Hall: 1, Your seats(2): [red:3, mqsto:3; , red:3, mqsto:4; ], Price: 2.0lv.
+Drago, 2021-01-02, 19.32h, Movie: Thor, Date: 2, Hour: 22.00, Hall: 1, Your seats(2): [red:3, mqsto:5; , red:3, mqsto:6; ], Price: 2.0lv.
+Drago, 2021-01-02, 22.3h, Movie: Avengers, Date: 2, Hour: 23.00, Hall: 2, Your seats(2): [red:3, mqsto:1; , red:3, mqsto:2; ], Price: 2.0lv.
+Drago, 2021-01-03, 11.29h, Movie: Thor, Date: 3, Hour: 16.00, Hall: 1, Your seats(2): [red:1, mqsto:1; , red:1, mqsto:2; ], Price: 2.0lv.
+Drago, 2021-01-03, 11.32h, Movie: Thor, Date: 3, Hour: 16.00, Hall: 1, Your seats(2): [red:1, mqsto:1; , red:1, mqsto:2; ], Price: 2.0lv.
+Drago, 2021-01-03, 11.32h, Movie: Thor, Date: 3, Hour: 22.00, Hall: 1, Your seats(2): [red:1, mqsto:1; , red:1, mqsto:2; ], Price: 2.0lv.
+Drago, 2021-01-03, 11.33h, Movie: Avengers, Date: 3, Hour: 18.00, Hall: 2, Your seats(2): [red:1, mqsto:1; , red:1, mqsto:2; ], Price: 2.0lv.
+Drago, 2021-01-03, 11.33h, Movie: Avengers, Date: 3, Hour: 23.00, Hall: 2, Your seats(2): [red:1, mqsto:1; , red:1, mqsto:2; ], Price: 2.0lv.
+Iva, 2021-01-03, 11.34h, Movie: Thor, Date: 3, Hour: 16.00, Hall: 1, Your seats(2): [red:1, mqsto:3; , red:1, mqsto:4; ], Price: 2.0lv.
+Iva, 2021-01-03, 11.35h, Movie: Thor, Date: 3, Hour: 16.00, Hall: 1, Your seats(40): [red:1, mqsto:5; , red:1, mqsto:6; , red:1, mqsto:7; , red:2, mqsto:1; , red:2, mqsto:2; , red:2, mqsto:3; , red:2, mqsto:4; , red:2, mqsto:5; , red:2, mqsto:6; , red:2, mqsto:7; , red:3, mqsto:1; , red:3, mqsto:2; , red:3, mqsto:3; , red:3, mqsto:4; , red:3, mqsto:5; , red:3, mqsto:6; , red:3, mqsto:7; , red:4, mqsto:1; , red:4, mqsto:2; , red:4, mqsto:3; , red:4, mqsto:4; , red:4, mqsto:5; , red:4, mqsto:6; , red:4, mqsto:7; , red:5, mqsto:1; , red:5, mqsto:2; , red:5, mqsto:3; , red:5, mqsto:4; , red:5, mqsto:5; , red:5, mqsto:6; , red:5, mqsto:7; , red:6, mqsto:1; , red:6, mqsto:2; , red:6, mqsto:3; , red:6, mqsto:4; , red:6, mqsto:5; , red:6, mqsto:6; , red:6, mqsto:7; , red:7, mqsto:1; , red:7, mqsto:2; ], Price: 40.0lv.
+Drago, 2021-01-03, 11.36h, Movie: Thor, Date: 3, Hour: 16.00, Hall: 1, Your seats(5): [red:7, mqsto:3; , red:7, mqsto:4; , red:7, mqsto:5; , red:7, mqsto:6; , red:7, mqsto:7; ], Price: 5.0lv.
+Iva, 2021-01-03, 11.38h, Movie: Thor, Date: 3, Hour: 22.00, Hall: 1, Your seats(2): [red:1, mqsto:3; , red:1, mqsto:4; ], Price: 2.0lv.
+Drago, 2021-01-03, 11.38h, Movie: Thor, Date: 3, Hour: 22.00, Hall: 1, Your seats(2): [red:1, mqsto:5; , red:1, mqsto:6; ], Price: 2.0lv.
+Drago, 2021-01-03, 12.21h, Movie: Thor, Date: 3, Hour: 22.00, Hall: 1, Your seats(37): [red:1, mqsto:7; , red:2, mqsto:1; , red:2, mqsto:2; , red:2, mqsto:3; , red:2, mqsto:4; , red:2, mqsto:5; , red:2, mqsto:6; , red:2, mqsto:7; , red:3, mqsto:1; , red:3, mqsto:2; , red:3, mqsto:3; , red:3, mqsto:4; , red:3, mqsto:5; , red:3, mqsto:6; , red:3, mqsto:7; , red:4, mqsto:1; , red:4, mqsto:2; , red:4, mqsto:3; , red:4, mqsto:4; , red:4, mqsto:5; , red:4, mqsto:6; , red:4, mqsto:7; , red:5, mqsto:1; , red:5, mqsto:2; , red:5, mqsto:3; , red:5, mqsto:4; , red:5, mqsto:5; , red:5, mqsto:6; , red:5, mqsto:7; , red:6, mqsto:1; , red:6, mqsto:2; , red:6, mqsto:3; , red:6, mqsto:4; , red:6, mqsto:5; , red:6, mqsto:6; , red:6, mqsto:7; , red:7, mqsto:1; ], Price: 37.0lv.
+Drago, 2021-01-03, 12.22h, Movie: Thor, Date: 3, Hour: 22.00, Hall: 1, Your seats(6): [red:7, mqsto:2; , red:7, mqsto:3; , red:7, mqsto:4; , red:7, mqsto:5; , red:7, mqsto:6; , red:7, mqsto:7; ], Price: 6.0lv.
